@@ -1,2 +1,8 @@
 # db-migrator
-Helper Script for DBIC::DeploymentHelper
+Helper Script for DBIC::DeploymentHandler
+
+# Credits
+This script was heavily influenced from a [snippet](http://blogs.perl.org/users/davewood/2013/03/) published by [davewook](http://blogs.perl.org/users/davewood/) on his
+
+# License
+You may distribute under the terms of either the GNU General Public License or the Artistic License, as specified in the Perl 5.10.0 README file.
